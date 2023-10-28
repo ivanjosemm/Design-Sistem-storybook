@@ -1,0 +1,17 @@
+.button-with-icon{
+  border-radius: 10px;
+  background-color: blue;
+  display: inline-flex;
+  align-items: center;
+  color: white;
+  padding: 6px 12px;
+  border: 1px solid white;
+  font-family: sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button-with-icon:hover{
+  background-color: rgb(98, 98, 254);
+}
+
